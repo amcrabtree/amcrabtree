@@ -54,7 +54,7 @@
   
 <h3>Statistical Data :</h3>
     
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amcrabtree&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amcrabtree&label=Profile%20views&color=0e75b6&style=flat"
     alt="amcrabtree" /> </p>
 
 <br>
