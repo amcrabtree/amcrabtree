@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ange. Angela Crabtree.</h1>
-<h3 align="center">I'm a current Master's student in the Bioinformatics & Genomics track of the University of Oregon's Knight Campus Graduate Internship Program 📚 </h3>
+<h1 align="center">Oh hello, wanderer 👋, I'm Ange!</h1>
+<h3 align="center">I am a current bioinformatics graduate student and soon-to-be intern </h3>
 
 <br>
 
