@@ -3,12 +3,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views : </h3> <img src="https://komarev.com/ghpvc/?username=amcrabtree&label=Profile%20views&color=0e75b6&style=flat"
-    alt="amcrabtree" /> 
-  </p>
-
-<br>
-
 <p><img align="right" src="https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" alt="dnagif" /></p>
 
 - 😄 Pronouns: She/They
@@ -59,6 +53,12 @@
  <br>
   
 <h3>Statistical Data :</h3>
+    
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=amcrabtree&label=Profile%20views&color=0e75b6&style=flat"
+    alt="amcrabtree" /> </p>
+
+<br>
+    
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=amcrabtree&show_icons=true&locale=en&layout=compact"
     alt="amcrabtree" /></p>
