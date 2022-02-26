@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**amcrabtree/amcrabtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Ange. Angela Crabtree.</h1>
 <h3 align="center">I'm a current Master's student in the Bioinformatics & Genomics track of the University of Oregon's Knight Campus Graduate Internship Program. ![image](https://user-images.githubusercontent.com/54289163/155826530-3cd8cca6-65c7-46f7-9be0-3367a92cce2c.png) 🌟.</h3>
 
@@ -26,12 +9,15 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/amcrabtree/blob/main/animation_500_kxa883sd.gif" alt="amcrabtree" /></p>
+<p><img align="right" src="https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" alt="dnagif" /></p>
 
+- 😄 Pronouns: She/They
+- 📫 How to reach me: **angela.crabtree.88@gmail.com**
 
 - 🌱 I’m currently studying machine learning and other AI techniques to apply in biomedicine
+- 🔭 I’m currently working on characterizing new double-stranded RNA viruses and satellites in budding yeast
 
-- 📫 How to reach me **angela.crabtree.88@gmail.com**
+- 💬 Ask me about Harry Potter, Final Fantasy VII, Buffy the Vampire Slayer, Supernatural, Witcher, or MARVEL. I will have opinions. 
 
 <br>
 
