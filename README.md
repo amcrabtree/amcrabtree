@@ -14,7 +14,7 @@
 - 😄 Pronouns: She/They
 - 📫 How to reach me: **angela.crabtree.88@gmail.com**
 
-- 🌱 I’m currently studying machine learning and other AI techniques to apply in biomedicine
+- 🌱 I’m currently studying machine learning and other AI techniques for biomedical applications
 - 🔭 I’m currently working on characterizing new double-stranded RNA viruses and satellites in budding yeast
 
 - 💬 Ask me about Harry Potter, Final Fantasy VII, Buffy the Vampire Slayer, Supernatural, Witcher, or MARVEL. I will have opinions. 
