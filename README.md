@@ -13,6 +13,12 @@
 
 <br>
 
+- 🏃‍♀️ Past research areas: anti-aging drug development (*C. elegans*), anti-viral drug development, SARS2/HIV/EBOV viral entry (mammalian tissue culture), viral pseudotyping, virus discovery, killer yeast (esp. *Saccharomyces spp.*), dsRNA sequencing method development, plasmid biology, multi-drug-resistant bacteria, gut microbiome (Zebrafish)
+
+- 💻 Computational skills: transcriptome analysis (*C. elegans*), *de novo* assembly of viral genomes, NGS pipeline development, variant calling (viruses) 
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/amcrabtree" target="blank"><img align="center"
