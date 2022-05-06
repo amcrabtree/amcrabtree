@@ -1,5 +1,5 @@
 <h1 align="center">Oh hello, wanderer 👋, I'm Ange!</h1>
-<h3 align="center">I am a current bioinformatics graduate student and soon-to-be intern </h3>
+<h3 align="center">I am a current bioinformatics graduate student and cancer research intern </h3>
 
 <br>
 
