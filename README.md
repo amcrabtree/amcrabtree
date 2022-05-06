@@ -5,12 +5,9 @@
 
 <p><img align="right" src="https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" alt="dnagif" /></p>
 
-- 😄 Pronouns: She/They
-- 📫 How to reach me: **angela.crabtree.88@gmail.com**
-
 - 🤖 Current focus: studying machine learning and other AI techniques for biomedical applications
-- 🔬 Current research project: characterizing new double-stranded RNA viruses and satellites in budding yeast
-- 🪱 Recent research project: transcriptome analysis of drug-treated worms to determine mechanism of action
+- 🔬 Recent research project: characterizing new double-stranded RNA viruses and satellites in budding yeast
+- 📸 Current research project: building machine learning models to predict cancer outcomes from biopsy slides
 
 - 💬 Ask me about Harry Potter, Final Fantasy VII, Buffy the Vampire Slayer, Supernatural, Witcher, or MARVEL. I will have opinions. 
 
