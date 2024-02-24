@@ -1,15 +1,11 @@
-<h1 align="center">Oh hello, wanderer 👋, I'm Ange!</h1>
+<h1 align="center">Hello, I'm Ange! 👋 </h1>
 <h3 align="center">I am a bioinformatics scientist in the field of cancer research </h3>
 
 <br>
 
-<p><img align="right" src="https://media.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" alt="dnagif" /></p>
-
 - 🤖 Current focus: studying machine learning and other AI techniques for cancer research applications
 - 🔬 Previous lab's research project: characterizing new double-stranded RNA viruses and satellites in budding yeast
-- 📸 Current research project: building machine learning models to predict cancer outcomes from biopsy slides
-
-- 💬 Ask me about Harry Potter, Final Fantasy VII, Buffy the Vampire Slayer, Supernatural, Witcher, or MARVEL. I will have opinions. 
+- 📸 Current research project: building machine learning models from biopsy slide images to study the tumor microenvironment (TME)
 
 <br>
 
